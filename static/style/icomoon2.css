@@ -1,0 +1,71 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(../fonts/SVG/sprite.png);
+}
+
+.icon-logo {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+
+.icon-close {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+
+.icon-Burger {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0;
+}
+
+.icon-garantee {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+
+.icon-best-support {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+
+.icon-clear-info {
+  width: 32px;
+  height: 32px;
+  background-position: -240px 0;
+}
+
+.icon-Board {
+  width: 32px;
+  height: 32px;
+  background-position: -288px 0;
+}
+
+.icon-Package {
+  width: 32px;
+  height: 32px;
+  background-position: -336px 0;
+}
+
+.icon-Delivery {
+  width: 32px;
+  height: 32px;
+  background-position: -384px 0;
+}
+
+.icon-Quotes-1 {
+  width: 32px;
+  height: 32px;
+  background-position: -432px 0;
+}
+
+.icon-Quotes {
+  width: 32px;
+  height: 32px;
+  background-position: -480px 0;
+}
