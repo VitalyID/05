@@ -1107,3 +1107,4 @@ boxLine.append(newDiv);
 
 InterSectCarousel('.main__vacancy .carousel');
 AnimationLineOnEdge('.main__vacancy .carousel .wrapIntersectionObserving');
+
